@@ -1,0 +1,11 @@
+numpy>=1.21
+optuna>=3.0
+
+# Optional: parallel budget sweep
+joblib>=1.1
+
+# Optional: required by scripts/demo.py for plotting
+matplotlib>=3.5
+
+# Optional: test
+pytest>=7.0
